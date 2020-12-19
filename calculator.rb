@@ -4,4 +4,4 @@ second_number = 2.to_i
 
 sum = first_number + second_number
 
-sum2 = first_number - second_number
+difference = first_number - second_number
