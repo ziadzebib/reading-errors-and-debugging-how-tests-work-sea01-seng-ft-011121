@@ -1,1 +1,1 @@
-first_number = 2
+first_number = 2.to_i
